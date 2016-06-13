@@ -1,4 +1,4 @@
-# Pairing Checkin
+j Pairing Checkin
 ## This is for the dry run of your pairing sessions
 
 
@@ -109,4 +109,11 @@ Whatever I want is here.  -- Driver Erik
 
 ANYTHING.  DO SOME CODE. -- Driver Erik
 
+---------
+Driver - Vishal
+Navigator - Dylan
+
+"What makes you happy?"
+A. Programming, running, playing some chess, a little bit of hiking,
+   and reading.
 
