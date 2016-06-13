@@ -117,3 +117,9 @@ Navigator - Dylan
 A. Programming, running, playing some chess, a little bit of hiking,
    and reading.
 
+--------
+Driver - Dylan
+Navigator- Vishal
+
+Question: "What makes you happy?"
+Answer: "Being outside, running and cycling, pair programming, traveling to new and exciting places."
